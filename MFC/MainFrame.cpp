@@ -1,7 +1,12 @@
-#include "pch.h"
+﻿#include "pch.h"
 #include "MainFrame.h"
 #include "TireProductionMFC.h"
 #include <shellapi.h>
+
+//테스트용 주석
+// 테스트 주석2
+
+int TEST = 0
 
 BEGIN_MESSAGE_MAP(CMainFrame, CFrameWnd)
     ON_WM_CREATE()
