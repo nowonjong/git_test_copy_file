@@ -25,3 +25,5 @@ except KeyboardInterrupt:
 #test 코드 주석 입력
 
 TEST = 123456
+
+test2=1234
