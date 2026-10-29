@@ -20,3 +20,6 @@ try:
 except KeyboardInterrupt:
     print("\n[테스트] 라즈베리파이 전원이 꺼졌습니다! (송신 중단)")
     client.close()
+
+
+#test 코드 주석 입력
